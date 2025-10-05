@@ -5,7 +5,7 @@ Excel: Pivot Tables, Lookups , Conditional Formatting, Charts
 Python: pandas, NumPy, Matplotlib, Seaborn, scikit-learn (Linear Regression)
 Data Analysis Skills: ETL, Data Cleaning, Trend Analysis, Predictive Modeling
 
-#Project Overview
+# Project Overview
 This project analyzes vehicle fleet data to track fuel efficiency, maintenance costs, and overall performance. 
 The goal is to provide actionable insights for cost optimization, resource management, and predictive maintenance.
 
@@ -38,11 +38,11 @@ Highlighted seasonality and operational trends.
 
 Applied Linear Regression to predict fuel consumption based on distance travelled.
 
-#Top 10 Analysis:
+# Top 10 Analysis:
 
 Ranked vehicles by highest maintenance cost and highest fuel consumption using Excel Pivot Tables and Python.
 
-Dashboard & Visualization:
+# Dashboard & Visualization:
 Built an interactive Excel dashboard with Pivot Tables, charts, and Conditional Formatting.
 Created Python visualizations for deeper insights (Bar Charts, Scatter Plots, Trend Lines).
 
