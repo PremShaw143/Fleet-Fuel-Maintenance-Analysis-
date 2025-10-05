@@ -2,7 +2,9 @@
 ## Tech Stack / Tools Used
 
 Excel: Pivot Tables, Lookups , Conditional Formatting, Charts
+
 Python: pandas, NumPy, Matplotlib, Seaborn, scikit-learn (Linear Regression)
+
 Data Analysis Skills: ETL, Data Cleaning, Trend Analysis, Predictive Modeling
 
 # Project Overview
